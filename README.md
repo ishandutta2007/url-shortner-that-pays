@@ -2,6 +2,7 @@
 URL SHORTNER THAT PAYS
 
 - [LINKVERTISE.COM](https://publisher.linkvertise.com/ac/1017482) $70
+- [SHRINKEARN.COM](https://shrinkearn.com/ref/ishandutta2007) $20
 - [SHRINKME.IO](https://shrinkme.io/ref/ishandutta2007) $22
 - [LINKSLY.CO](https://linksly.co/ref/ishandutta2007) $20
 - ADYOUME $4
