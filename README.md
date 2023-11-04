@@ -1,5 +1,4 @@
-# README.md
-URL SHORTNER THAT PAYS
+# URL SHORTNER THAT PAYS
 
 | URL Shorteners | CPM United States | CPM India | Highest Payout | Traffic Region | Website Exist Since |
 |---|---|---|---|---|---|
