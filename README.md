@@ -1,6 +1,7 @@
 # README.md
 URL SHORTNER THAT PAYS
 
+- [SHRINKME.IO](https://shrinkme.io/ref/ishandutta2007) $22
 - ADYOUME $4
 - [CLICKSFLY](https://clicksfly.com/ref/ishandutta2007) $3.8
 - GETSURL $3.5
