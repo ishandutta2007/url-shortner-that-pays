@@ -23,7 +23,7 @@ URL SHORTNER THAT PAYS
 - DWINDLY $2.5
 - [OKE.IO](https://oke.io/ref/ishandutta2007) $2.2
 - [ZAGL](https://zee.gl/ref/10155920842323649) $2.1
-- SPASTE $1.6
+- [SPASTE](https://www.spaste.com/site/register/19870) $1.6
 
 - [https://adshrink.it/](https://shrink-service.it/referral/OTU2MzU=)
 
@@ -44,6 +44,10 @@ URL SHORTNER THAT PAYS
 - [pubiza.com](https://pubiza.com?r=337768)
 
 - [binbucks.com](http://www.binbucks.com/site/register?id=14503)
+
+- [dz4link.com](https://dz4link.com/ref/ishandutta2007)
+
+- [adfoc.us](http://adfoc.us/?refid=837575)
 
 
 | URL Shorteners | CPM United States | CPM India | Highest Payout | Traffic Region | Website Exist Since |
