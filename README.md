@@ -3,13 +3,13 @@ URL SHORTNER THAT PAYS
 
 | URL Shorteners | CPM United States | CPM India | Highest Payout | Traffic Region | Website Exist Since |
 |---|---|---|---|---|---|
-| [LINKVERTISE.COM](https://publisher.linkvertise.com/ac/1017482) | $8.50 (euro8 approx) | $8.50 (euro8 approx) | $8.50 | Germany | Since 2017 | 
+| [LINKVERTISE.COM](https://publisher.linkvertise.com/ac/1017482) | $8.50 | $8.50 | $8.50 | Germany | Since 2017 | 
 | [SHRINKEARN.COM](https://shrinkearn.com/ref/ishandutta2007) | $10.0 | $4.0 | $20.00 | Greenland | Since 2018 |
-| [LINKSLY.CO](https://linksly.co/ref/ishandutta2007) | $20 | $ | $ | - | - |
-| [EXE.IO](https://exe.io/ref/ishandutta2007) | $3.2 | $ | $ | - | - |
-| [TMEARN](https://tmearn.net/ref/ishandutta2007) | $2.8 | $ | $ | - | - |
-| [ZAGL](https://zee.gl/ref/10155920842323649) | $2.1 | $ | $ | - | - |
-| [SHRINK.ME](http://shon.xyz/r/108986) | $ | $ | $ | - | - |
+| [LINKSLY.CO](https://linksly.co/ref/ishandutta2007) | $20 | NA | NA | NA | NA |
+| [EXE.IO](https://exe.io/ref/ishandutta2007) | $3.2 | NA | NA | NA | NA |
+| [TMEARN](https://tmearn.net/ref/ishandutta2007) | $2.8 | NA | NA | NA | NA |
+| [ZAGL](https://zee.gl/ref/10155920842323649) | $2.1 | NA | NA | NA | NA |
+| [SHRINK.ME](http://shon.xyz/r/108986) | NA | NA | NA | NA | NA |
 | [SHRINKME.IO](https://shrinkme.io/ref/ishandutta2007) | $8.0 | $4.0 | $22.00 | Greenland | Since 2019 |
 | [CLK.SH](https://clk.sh/ref/ishandutta2007) | $10.0 | $3.50 | $20.00 | Greenland | Since 2018 |
 | [CLICKSFLY](https://clicksfly.com/ref/ishandutta2007) | $14.50 | $4.00 | $20.00 | Greenland | Since 2017 |
