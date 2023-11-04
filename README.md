@@ -10,6 +10,6 @@ URL SHORTNER THAT PAYS
 - TMEARN$2.8
 - CUTWIN $2.6
 - DWINDLY $2.5
-- OKE.IO $2.2
+- [OKE.IO](https://oke.io/ref/ishandutta2007) $2.2
 - [ZAGL](https://zee.gl/ref/10155920842323649) $2.1
 - SPASTE $1.6
