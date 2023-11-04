@@ -7,7 +7,7 @@ URL SHORTNER THAT PAYS
 - URL.WIN $3.5
 - WICR $3.3
 - PRETTY.LINK $3.2
-- TMEARN$2.8
+- [TMEARN](https://tmearn.net/ref/ishandutta2007) $2.8
 - [CUTWIN](https://cutwin.com/ref/10155932283918649) $2.6
 - DWINDLY $2.5
 - [OKE.IO](https://oke.io/ref/ishandutta2007) $2.2
