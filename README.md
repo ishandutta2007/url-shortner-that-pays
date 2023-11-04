@@ -2,7 +2,7 @@
 URL SHORTNER THAT PAYS
 
 - ADYOUME $4
-- CLICKSFLY $3.8
+- [CLICKSFLY](https://clicksfly.com/ref/ishandutta2007) $3.8
 - GETSURL $3.5
 - URL.WIN $3.5
 - WICR $3.3
