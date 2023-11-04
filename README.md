@@ -6,7 +6,7 @@ URL SHORTNER THAT PAYS
 - [SHRINKME.IO](https://shrinkme.io/ref/ishandutta2007) $22
 - [LINKSLY.CO](https://linksly.co/ref/ishandutta2007) $20
 - ADYOUME $4
-- [CLICKSFLY](https://clicksfly.com/ref/ishandutta2007) $3.8
+- [CLICKSFLY](https://clicksfly.com/ref/ishandutta2007) $3.8 - $15
 - GETSURL $3.5
 - URL.WIN $3.5
 - WICR $3.3
