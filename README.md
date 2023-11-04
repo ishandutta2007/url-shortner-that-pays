@@ -49,6 +49,10 @@ URL SHORTNER THAT PAYS
 
 - [adfoc.us](http://adfoc.us/?refid=837575)
 
+- [SHRINK.ME](http://shon.xyz/r/108986)
+
+- [LINKREX.NET](https://linkrex.net/ref/ishandutta2007)
+
 
 | URL Shorteners | CPM United States | CPM India | Highest Payout | Traffic Region | Website Exist Since |
 | Linkvertise.com | $8.50 (euro8 approx) | $8.50 (euro8 approx) | $8.50 | Germany | Since 2017 | 
