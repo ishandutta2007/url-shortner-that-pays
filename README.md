@@ -54,7 +54,9 @@ URL SHORTNER THAT PAYS
 - [LINKREX.NET](https://linkrex.net/ref/ishandutta2007)
 
 
+
 | URL Shorteners | CPM United States | CPM India | Highest Payout | Traffic Region | Website Exist Since |
+|---|---|---|---|---|---|
 | Linkvertise.com | $8.50 (euro8 approx) | $8.50 (euro8 approx) | $8.50 | Germany | Since 2017 | 
 | Shrinkearn | $10.0 | $4.0 | $20.00 | Greenland | Since 2018 |
 | Shrinkme | $8.0 | $4.0 | $22.00 | Greenland | Since 2019 |
