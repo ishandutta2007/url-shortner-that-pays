@@ -8,6 +8,7 @@ URL SHORTNER THAT PAYS
 - [LINKSLY.CO](https://linksly.co/ref/ishandutta2007) $20
 - ADYOUME $4
 - [CLICKSFLY](https://clicksfly.com/ref/ishandutta2007) $3.8 - $15
+- [ADPAYLINK.COM](https://adpaylink.com/ref/ishandutta2007) $13
 - GETSURL $3.5
 - URL.WIN $3.5
 - WICR $3.3
