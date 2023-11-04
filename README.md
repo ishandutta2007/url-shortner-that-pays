@@ -33,6 +33,14 @@ URL SHORTNER THAT PAYS
 
 - [bc.vc](https://bc.vc/?r=252243)
 
+- [payskip.org](https://payskip.org/ref/ishandutta2007)
+
+- [al.ly](https://al.ly/user/register?ref=46829)
+
+- [cpmlink.net](https://cpmlink.net/?ref=OI4AAA)
+
+- [clik.pw](https://clik.pw/ref/ishandutta2007)
+
 
 URL Shorteners	CPM United States	CPM India	Highest Payout | Traffic Region	Website Exist Since
 Linkvertise.com	$8.50 (euro8 approx)	$8.50 (euro8 approx)	$8.50 | Germany	Since 2017
