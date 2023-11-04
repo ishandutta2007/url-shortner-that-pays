@@ -1,18 +1,11 @@
 # README.md
 URL SHORTNER THAT PAYS
 
-- [LINKSLY.CO](https://linksly.co/ref/ishandutta2007) $20
-- GETSURL $3.5
-- URL.WIN $3.5
-- WICR $3.3
-- PRETTY.LINK $3.2
-- DWINDLY $2.5
-
-
 | URL Shorteners | CPM United States | CPM India | Highest Payout | Traffic Region | Website Exist Since |
 |---|---|---|---|---|---|
 | [LINKVERTISE.COM](https://publisher.linkvertise.com/ac/1017482) | $8.50 (euro8 approx) | $8.50 (euro8 approx) | $8.50 | Germany | Since 2017 | 
 | [SHRINKEARN.COM](https://shrinkearn.com/ref/ishandutta2007) | $10.0 | $4.0 | $20.00 | Greenland | Since 2018 |
+| [LINKSLY.CO](https://linksly.co/ref/ishandutta2007) | $20 | $ | $ | - | - |
 | [EXE.IO](https://exe.io/ref/ishandutta2007) | $3.2 | $ | $ | - | - |
 | [TMEARN](https://tmearn.net/ref/ishandutta2007) | $2.8 | $ | $ | - | - |
 | [ZAGL](https://zee.gl/ref/10155920842323649) | $2.1 | $ | $ | - | - |
@@ -47,3 +40,12 @@ URL SHORTNER THAT PAYS
 | Short | $2.50 | $1.80 | $2.50 | Unites States | Since 2015 |
 | Shink | $4.10 | $1.50 | $5.00 | Australia | Since 2017 |
 | [LINKREX.NET](https://linkrex.net/ref/ishandutta2007) | $4.00 | $1.60 | $15.00 | Angola | Since 2018 |
+
+
+
+- GETSURL $3.5
+- URL.WIN $3.5
+- WICR $3.3
+- PRETTY.LINK $3.2
+- DWINDLY $2.5
+
