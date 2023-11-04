@@ -43,6 +43,8 @@ URL SHORTNER THAT PAYS
 
 - [pubiza.com](https://pubiza.com?r=337768)
 
+- [binbucks.com](http://www.binbucks.com/site/register?id=14503)
+
 
 | URL Shorteners | CPM United States | CPM India | Highest Payout | Traffic Region | Website Exist Since |
 | Linkvertise.com | $8.50 (euro8 approx) | $8.50 (euro8 approx) | $8.50 | Germany | Since 2017 | 
